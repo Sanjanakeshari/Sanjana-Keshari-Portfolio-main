@@ -21,8 +21,8 @@ live: "https://doi.org/10.22214/ijraset.2025.76656",
 title: "Sorting Algorithm Visualizer",
 description:
 "Created an interactive visualization platform using HTML, CSS, JavaScript, and p5.js to demonstrate real-time execution of sorting algorithms. Improved animation smoothness and reduced memory usage by transitioning from DOM-based rendering to Canvas API implementation.",
-github: "YOUR_GITHUB_LINK_FOR_SORTING_VISUALIZER",
-live: "#.",
+github: "https://github.com/Sanjanakeshari/Sorting_Algorithm_Visualizer",
+live: "https://sorting-algorithm-visualizer-ten-lovat.vercel.app/",
 },
 ];
 
