@@ -24,6 +24,14 @@ description:
 github: "https://github.com/Sanjanakeshari/Sorting_Algorithm_Visualizer",
 live: "https://sorting-algorithm-visualizer-ten-lovat.vercel.app/",
 },
+
+{
+title: "Sorting Algorithm Visualizer",
+description:
+"Created an interactive visualization platform using HTML, CSS, JavaScript, and p5.js to demonstrate real-time execution of sorting algorithms. Improved animation smoothness and reduced memory usage by transitioning from DOM-based rendering to Canvas API implementation.",
+github: "https://github.com/Sanjanakeshari/Sorting_Algorithm_Visualizer",
+live: "https://sorting-algorithm-visualizer-ten-lovat.vercel.app/",
+},
   
 ];
 
