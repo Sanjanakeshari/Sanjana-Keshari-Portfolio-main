@@ -28,8 +28,7 @@ live: "https://sorting-algorithm-visualizer-ten-lovat.vercel.app/",
 {
 title: "Student Performance Analytics Dashboard",
 description:
-"An interactive dashboard that helps educational institutions identify at-risk students by analyzing marks, attendance, and login behavior.Institutions often need early warning systems to identify students who might fail or drop out.
-This project analyzes student data to highlight Performance trends, Risk areas, Impact of absenteeism.",
+"An interactive dashboard that helps educational institutions identify at-risk students by analyzing marks, attendance, and login behavior.Institutions often need early warning systems to identify students who might fail or drop out. This project analyzes student data to highlight Performance trends, Risk areas, Impact of absenteeism.",
 github: "https://github.com/Sanjanakeshari/StudentPerformance_AnalyticsDashboard",
 live: "#",
 },
