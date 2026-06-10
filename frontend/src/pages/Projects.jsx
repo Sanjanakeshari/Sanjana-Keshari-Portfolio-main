@@ -26,11 +26,12 @@ live: "https://sorting-algorithm-visualizer-ten-lovat.vercel.app/",
 },
 
 {
-title: "Sorting Algorithm Visualizer",
+title: "Student Performance Analytics Dashboard",
 description:
-"Created an interactive visualization platform using HTML, CSS, JavaScript, and p5.js to demonstrate real-time execution of sorting algorithms. Improved animation smoothness and reduced memory usage by transitioning from DOM-based rendering to Canvas API implementation.",
-github: "https://github.com/Sanjanakeshari/Sorting_Algorithm_Visualizer",
-live: "https://sorting-algorithm-visualizer-ten-lovat.vercel.app/",
+"An interactive dashboard that helps educational institutions identify at-risk students by analyzing marks, attendance, and login behavior.Institutions often need early warning systems to identify students who might fail or drop out.
+This project analyzes student data to highlight Performance trends, Risk areas, Impact of absenteeism.",
+github: "https://github.com/Sanjanakeshari/StudentPerformance_AnalyticsDashboard",
+live: "#",
 },
   
 ];
