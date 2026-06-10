@@ -46,7 +46,7 @@ transition={{ duration: 0.5 }}
 My Projects
 </motion.h2>
 
-```
+
   <div className="max-w-5xl mx-auto grid md:grid-cols-2 gap-8">
     {projects.map((project, index) => (
       <motion.div
