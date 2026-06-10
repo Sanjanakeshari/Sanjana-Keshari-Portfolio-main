@@ -7,15 +7,15 @@ const projects = [
 title: "CarCaddy | Car Rental Management System",
 description:
 "Developed a scalable backend system using Java, Spring Boot, MySQL, REST APIs, Postman, and XAMPP. Designed normalized database schemas, implemented employee and rental management modules, optimized query performance by approximately 25%, and added robust validation and exception handling for reliable operations.",
-github: "YOUR_GITHUB_LINK_FOR_CARCADDY",
+github: "https://github.com/Sanjanakeshari/CarCaddy-Backend",
 live: "#",
 },
 {
 title: "SafarSetu | Multilingual Tourism Guide Bot",
 description:
 "Built a Telegram Bot-based tourism assistant using Python, Telegram Bot API, REST APIs, GPS APIs, JSON, and Text-to-Speech services. Delivered multilingual heritage information, audio support, location-based recommendations, and optimized data retrieval for faster user responses.",
-github: "YOUR_GITHUB_LINK_FOR_SAFARSETU",
-live: "https://doi.org/10.22214/ijraset.2025.76656",
+github: "https://github.com/Sanjanakeshari/HaveliGuideBot",
+live: "https://safarsetu-web.vercel.app/",
 },
 {
 title: "Sorting Algorithm Visualizer",
@@ -24,6 +24,15 @@ description:
 github: "https://github.com/Sanjanakeshari/Sorting_Algorithm_Visualizer",
 live: "https://sorting-algorithm-visualizer-ten-lovat.vercel.app/",
 },
+  {
+title: "Student Performance Analytics Dashboard",
+description:
+"Created An interactive dashboard that helps educational institutions identify at-risk students by analyzing marks, attendance, and login behavior.Institutions often need early warning systems to identify students who might fail or drop out.
+This project analyzes student data to highlight Performance trends, Risk areas, Impact of absenteeism",
+github: "https://github.com/Sanjanakeshari/StudentPerformance_AnalyticsDashboard",
+live: "#",
+},
+  
 ];
 
 function Projects() {
